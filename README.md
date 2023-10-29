@@ -9,9 +9,9 @@
 <p align="left">My name is Adrian Mauricio Arandia Urrea<br>I'm a Software Developer</p>
 
 ### <h2 align="left">About me</h2>
-
-<p align="left">📚 I'm a software development technician.</p>
-<p align="left">📚 I'm currently learning Technology in Software Analysis and Development at SENA</p>
+- Studies 
+  <p align="left">📚 I'm a software development technician graduated in **SENA**.</p>
+  <p align="left">📚 I'm currently learning Technology in Software Analysis and Development at **SENA**</p>
 
 ### <h2 align="left">I code with</h2>
 
@@ -27,8 +27,6 @@
   <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=black&style=for-the-badge" alt="php logo"  />
 </div>
 
-### <h2 align="left">Knowledge</h2>
-
 I have knowledge from basic to medium in different development technologies.
 
 In theory i have the most basic knowledge of programming syntax. Conditionals, loops or classes and general knowledge of development, that's I mean. 
@@ -39,37 +37,46 @@ I list them below:
 
  - I have used them, but I know little about them.
 
-    <div align="left">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" height="30" alt="electron logo"  />
-      <img width="12" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="30" alt="vuejs logo"  />
-      <img width="12" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cakephp/cakephp-original.svg" height="30" alt="cakephp logo"  />
-      <img width="12" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" height="30" alt="symfony logo"  />
+    <div align="left" style="display: flex; flex-direction: column; gap: 1rem">
+      <div>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" height="10" alt="electron logo"  /> <p>Electron</p>
+      </div>
+      <div>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="10" alt="vuejs logo"  /> <p>Vue JS</p>
+      </div>
+      <div>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cakephp/cakephp-original.svg" height="10" alt="cakephp logo"  /> <p>Cake PHP</p>
+      </div>
+      <div>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" height="10" alt="symfony logo"  /> <p>Symfony</p>
+      </div>
     </div>
   - I have use them and I've delved into them
 
-    <div align="left">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="30" alt="angularjs logo"  />
-      <img width="12" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+    <div align="left" style="display: flex; flex-direction: column; gap: 1rem">
+      <div>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="10" alt="angularjs logo"  /> <p>Angular JS</p>
+      </div>
+      <div>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="10" alt="typescript logo"  /> <p>TypeScript</p>
+      </div>
     </div>
   - I can defend myself correctly with them
 
-    <div align="left">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="30" alt="laravel logo"  />
-      <img width="12" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-      <img width="12" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
+    <div align="left" style="display: flex; flex-direction: column; gap: 1rem">
+      <div>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="10" alt="laravel logo"  /> <p>Laravel</p>
+      </div>
     </div>
   - I working actually with them
 
-    <div align="left">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-      <img width="12" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
+    <div align="left" style="display: flex; flex-direction: column; gap: 1rem">
+      <div>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="10" alt="react logo"  /> <p>React</p>
+      </div>
+      <div>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="10" alt="nextjs logo"  /> <p>Next JS</p>
+      </div>
     </div>
 
 ###
