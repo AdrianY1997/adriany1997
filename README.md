@@ -10,8 +10,8 @@
 
 ### <h2 align="left">About me</h2>
 - Studies 
-  <p align="left">📚 I'm a software development technician graduated in **SENA**.</p>
-  <p align="left">📚 I'm currently learning Technology in Software Analysis and Development at **SENA**</p>
+  <p align="left">📚 I'm a software development technician graduated in <b>SENA</b>.</p>
+  <p align="left">📚 I'm currently learning Technology in Software Analysis and Development at <b>SENA</b></p>
 
 ### <h2 align="left">I code with</h2>
 
