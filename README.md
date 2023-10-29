@@ -31,7 +31,11 @@
 
 I have knowledge from basic to medium in different development technologies.
 
-In theory i have the basic knowledge of programming syntax. Conditionals, loops or classes and most of knowledge of development that's I mean. I try to write programs in different languages such as Java for minecraft modding or JavaFX applications, C for UnrealEngine Games, C# for Unity Games, etc... But, my strength is the web development either in vanilla development or the use of framework, libraries and `here is a list ✨`
+In theory i have the most basic knowledge of programming syntax. Conditionals, loops or classes and general knowledge of development, that's I mean. 
+I try to write programs in different languages such as **Java for minecraft modding or JavaFX applications**, **C for UnrealEngine Games** or **C# for Unity Games**. 
+But, my strength is the web development either in vanilla development or the use of different framework, libraries.
+
+I list them below:
 
  - I have used them, but I know little about them.
 
@@ -56,6 +60,13 @@ In theory i have the basic knowledge of programming syntax. Conditionals, loops 
     <div align="left">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="30" alt="laravel logo"  />
       <img width="12" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+      <img width="12" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
+    </div>
+  - I working actually with them
+
+    <div align="left">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
       <img width="12" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
