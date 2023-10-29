@@ -38,44 +38,44 @@ I list them below:
  - I have used them, but I know little about them.
 
     <div align="left" style="display: flex; flex-direction: column; gap: 1rem">
-      <div>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" height="10" alt="electron logo"  /> <p>Electron</p>
+      <div style="display: flex; gap: 1rem; align-items: center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" height="20" alt="electron logo"  /> <p>Electron</p>
       </div>
-      <div>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="10" alt="vuejs logo"  /> <p>Vue JS</p>
+      <div style="display: flex; gap: 1rem; align-items: center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="20" alt="vuejs logo"  /> <p>Vue JS</p>
       </div>
-      <div>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cakephp/cakephp-original.svg" height="10" alt="cakephp logo"  /> <p>Cake PHP</p>
+      <div style="display: flex; gap: 1rem; align-items: center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cakephp/cakephp-original.svg" height="20" alt="cakephp logo"  /> <p>Cake PHP</p>
       </div>
-      <div>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" height="10" alt="symfony logo"  /> <p>Symfony</p>
+      <div style="display: flex; gap: 1rem; align-items: center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" height="20" alt="symfony logo"  /> <p>Symfony</p>
       </div>
     </div>
   - I have use them and I've delved into them
 
     <div align="left" style="display: flex; flex-direction: column; gap: 1rem">
-      <div>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="10" alt="angularjs logo"  /> <p>Angular JS</p>
+      <div style="display: flex; gap: 1rem; align-items: center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="20" alt="angularjs logo"  /> <p>Angular JS</p>
       </div>
-      <div>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="10" alt="typescript logo"  /> <p>TypeScript</p>
+      <div style="display: flex; gap: 1rem; align-items: center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="20" alt="typescript logo"  /> <p>TypeScript</p>
       </div>
     </div>
   - I can defend myself correctly with them
 
     <div align="left" style="display: flex; flex-direction: column; gap: 1rem">
-      <div>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="10" alt="laravel logo"  /> <p>Laravel</p>
+      <div style="display: flex; gap: 1rem; align-items: center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="20" alt="laravel logo"  /> <p>Laravel</p>
       </div>
     </div>
   - I working actually with them
 
     <div align="left" style="display: flex; flex-direction: column; gap: 1rem">
-      <div>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="10" alt="react logo"  /> <p>React</p>
+      <div style="display: flex; gap: 1rem; align-items: center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="20" alt="react logo"  /> <p>React</p>
       </div>
-      <div>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="10" alt="nextjs logo"  /> <p>Next JS</p>
+      <div style="display: flex; gap: 1rem; align-items: center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="20" alt="nextjs logo"  /> <p>Next JS</p>
       </div>
     </div>
 
