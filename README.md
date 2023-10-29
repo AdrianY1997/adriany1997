@@ -42,40 +42,40 @@ I list them below:
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" height="20" alt="electron logo"  /> <span>Electron</span>
       </div>
       <div style="display: flex; gap: 1rem; align-items: center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="20" alt="vuejs logo"  /> <p>Vue JS</p>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="20" alt="vuejs logo"  /> <span>Vue JS</span>
       </div>
       <div style="display: flex; gap: 1rem; align-items: center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cakephp/cakephp-original.svg" height="20" alt="cakephp logo"  /> <p>Cake PHP</p>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cakephp/cakephp-original.svg" height="20" alt="cakephp logo"  /> <span>Cake PHP</span>
       </div>
       <div style="display: flex; gap: 1rem; align-items: center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" height="20" alt="symfony logo"  /> <p>Symfony</p>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" height="20" alt="symfony logo"  /> <span>Symfony</span>
       </div>
     </div>
   - I have use them and I've delved into them
 
     <div align="left" style="display: flex; flex-direction: column; gap: 1rem">
       <div style="display: flex; gap: 1rem; align-items: center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="20" alt="angularjs logo"  /> <p>Angular JS</p>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="20" alt="angularjs logo"  /> <span>Angular JS</span>
       </div>
       <div style="display: flex; gap: 1rem; align-items: center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="20" alt="typescript logo"  /> <p>TypeScript</p>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="20" alt="typescript logo"  /> <span>TypeScript</span>
       </div>
     </div>
   - I can defend myself correctly with them
 
     <div align="left" style="display: flex; flex-direction: column; gap: 1rem">
       <div style="display: flex; gap: 1rem; align-items: center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="20" alt="laravel logo"  /> <p>Laravel</p>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="20" alt="laravel logo"  /> <span>Laravel</span>
       </div>
     </div>
   - I working actually with them
 
     <div align="left" style="display: flex; flex-direction: column; gap: 1rem">
       <div style="display: flex; gap: 1rem; align-items: center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="20" alt="react logo"  /> <p>React</p>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="20" alt="react logo"  /> <span>React</span>
       </div>
       <div style="display: flex; gap: 1rem; align-items: center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="20" alt="nextjs logo"  /> <p>Next JS</p>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="20" alt="nextjs logo"  /> <span>Next JS</span>
       </div>
     </div>
 
