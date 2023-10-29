@@ -39,7 +39,7 @@ I list them below:
 
     <div align="left" style="display: flex; flex-direction: column; gap: 1rem">
       <div style="display: flex; gap: 1rem; align-items: center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" height="20" alt="electron logo"  /> <p>Electron</p>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" height="20" alt="electron logo"  /> <span>Electron</span>
       </div>
       <div style="display: flex; gap: 1rem; align-items: center">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="20" alt="vuejs logo"  /> <p>Vue JS</p>
