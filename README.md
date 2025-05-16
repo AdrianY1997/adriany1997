@@ -14,6 +14,5 @@ Hi, I'm Adrián 👋
 Frontend developer with solid backend knowledge.  
 I build modern interfaces using Next.js and Tailwind CSS, as well as vanilla HTML, CSS, and JavaScript.  
 Comfortable working with Node.js, MySQL, PHP, and Linux servers (Nginx, PM2).  
-Currently focused on real-time systems and web analytics.
 
 Always learning and improving.
